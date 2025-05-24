@@ -10,7 +10,7 @@
 
 You can view the live demo of this portfolio website on Netlify:
 <br>
-Netlify: [Portfolio Website](https://ritoncharlox-portfolio-website.netlify.app/)
+Netlify: [Portfolio Website](https://portfolio-hqaz.vercel.app/)
 
 ## Pages
 
